@@ -1,4 +1,3 @@
-# FastAPI Practice
+## Feature: News Filtering
 
-This project is for learning FastAPI and deploying to Azure.
-git st
+This branch will add UPSC news filtering functionality.
